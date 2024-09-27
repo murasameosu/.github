@@ -1,6 +1,6 @@
-<h1 align="center">Murasame for osu!private server</h1>
+<h1 align="center">Murasame for osu! private server</h1>
 
-Murasame is a new **Invite only** osu!private server. <br />
+Murasame is a new **Invite only** osu! private server. <br />
 Murasameは全く新しい**招待限定**のosu!プライベートサーバーです。
 
 
@@ -10,7 +10,7 @@ Murasameは全く新しい**招待限定**のosu!プライベートサーバー�
 
 # The Appeal of This Server
 
-* All players can enjoy osu! supporter features (osu!direct, friend rankings, etc.)!
+* All players can enjoy osu!supporter features! (osu!direct, friend rankings, etc.)
 * Watch and share replays on the website! (coming soon...)  
 * Change your username at any time!  
 * Earn pp on Loved Beatmaps!  
